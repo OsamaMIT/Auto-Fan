@@ -18,7 +18,7 @@ I had no way of manipulating temperature, so I instead show it automatically tur
 
 # Build
 ### Prototype
-Connected everything's VCC in parallel as pers usual.
+Connected everything's VCC in parallel as per usual.
 
 ![auto_fan_prototype](https://github.com/OsamaMIT/Auto-Fan/assets/114868997/8361c1af-291e-40de-8448-b1b1b36d600d)
 
