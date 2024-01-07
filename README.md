@@ -7,7 +7,7 @@ Yes I recycled an old pocky box to make the stand for the fan, mechanical engine
 
 # Testing
 By clasping the sensor, it increases the humidity around it and therefore the detected value. The code is set so the fan automatically runs when it is over 55.
-Afterwards I let the humidity drop to 55, where the fan automatically stops.
+When the humidity drops to 55 or below, the fan automatically stops.
 
 [![humddemo](http://img.youtube.com/vi/ZbTbx0sURJI/0.jpg)](http://www.youtube.com/watch?v=ZbTbx0sURJI "Automatic Fan (Humidity Demo)")
 
