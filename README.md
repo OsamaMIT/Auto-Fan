@@ -17,8 +17,11 @@ I had no way of manipulating temperature, so I instead show it automatically tur
 # Build
 ### Prototype
 Connected everything's VCC in parallel as pers usual.
+
 ![auto_fan_prototype](https://github.com/OsamaMIT/Auto-Fan/assets/114868997/8361c1af-291e-40de-8448-b1b1b36d600d)
+
 ### Final
 I had to change the VCC connections so the motor was directly connected to the 5V pin on the board and the sensor to the 3.3V.
 While inconvenient, this was necessary as previously the motor would need a push before being able to rotate the fan on its own as the voltage wasn't enough since it only got half of the total voltage while connected in parallel.
+
 ![auto_fan_final](https://github.com/OsamaMIT/Auto-Fan/assets/114868997/28a1f0f8-b014-487b-8247-90e37f3e85b0)
