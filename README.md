@@ -8,10 +8,12 @@ Yes I recycled an old pocky box to make the stand for the fan, mechanical engine
 # Testing
 By clasping the sensor, it increases the humidity around it and therefore the sensor. The code is set so the fan automatically runs when it is over 55.
 Afterwards I let the humidity drop to 55, where the fan automatically stops.
+
 [![humddemo](http://img.youtube.com/vi/ZbTbx0sURJI/0.jpg)](http://www.youtube.com/watch?v=ZbTbx0sURJI "Automatic Fan (Humidity Demo)")
 
 The code was set so the fan automatically runs when the temperature is above 25.
 I had no way of manipulating temperature, so I instead show it automatically turning on when it runs and detects that the temperature is 26°C.
+
 [![tempdemo](http://img.youtube.com/vi/kgGQG-pPAWs/0.jpg)](http://www.youtube.com/watch?v=kgGQG-pPAWs "Automatic Fan (Temperature Demo)")
 
 # Build
