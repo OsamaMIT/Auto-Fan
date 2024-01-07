@@ -26,6 +26,6 @@ Connected everything's VCC in parallel as per usual.
 
 ### Final
 I had to change the VCC connections so the motor was directly connected to the 5V pin on the board and the sensor to the 3.3V.
-While inconvenient, this was necessary as previously the motor would need a push before being able to rotate the fan on its own as the voltage wasn't enough since it only got half of the total voltage while connected in parallel.
+While inconvenient, this was necessary as previously the motor would need a push before being able to rotate the fan on its own. This was because the voltage wasn't enough since it was connected in parallel and only recieved half of the 5V.
 
 ![auto_fan_final](https://github.com/OsamaMIT/Auto-Fan/assets/114868997/28a1f0f8-b014-487b-8247-90e37f3e85b0)
