@@ -17,7 +17,7 @@ I had no way of manipulating temperature, so I instead show it automatically tur
 [![tempdemo](http://img.youtube.com/vi/kgGQG-pPAWs/0.jpg)](http://www.youtube.com/watch?v=kgGQG-pPAWs "Automatic Fan (Temperature Demo)")
 
 # Build
-I used a DHT11 module instead of a TMP, however since Tinkercad didn't have it I placed a TMP on the diagram instead. The DHT11 module only has 3 pins versus the typical DHT11 where one had to have a resistor in series, so I didn't require one. Most DHT11 modules I have seen online tend to have the pins as `(VCC, DATA, GND)` however mine was `(DATA, VCC, GND)`.
+I used a DHT11 module instead of a TMP, however since Tinkercad didn't have it I placed a TMP on the diagram instead. The DHT11 module only has 3 pins versus the typical DHT11 where one had to have a resistor in series, so I didn't need any resistors. Most DHT11 modules I have seen online tend to have the pins as `(VCC, DATA, GND)` however mine was `(DATA, VCC, GND)`.
 
 ### Prototype
 Connected everything's VCC in parallel as per usual.
