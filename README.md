@@ -1,6 +1,6 @@
 # Auto-Fan
 A desk fan that automatically turns on according to humidity and temperature. Made with Arduino Uno.
-Yes I recycled an old pocky box to make the stand for the fan, mechanical engineering is not my thing. My first project so wiring isn't the cleanest
+Yes I recycled an old pocky box to make the stand for the fan, mechanical engineering is not my thing. I decided not to set it up on a high stand to avoid it taking up much space. It's my first project so the wiring isn't the cleanest.
 
 <img src="https://github.com/OsamaMIT/Auto-Fan/assets/114868997/a0cebc94-8979-45e1-8586-99c62d8ce1a6" width="450" />
 <img src="https://github.com/OsamaMIT/Auto-Fan/assets/114868997/5d65e36c-b94e-4e95-8e77-d20a7c0c072b" width="450" />
